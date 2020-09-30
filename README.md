@@ -1,2 +1,3 @@
 # Scan Hosts (Python-Script)
-this code scan hosts in your network that are live
+This code scan hosts in your network that are Alive.
+Thanks and support us.
